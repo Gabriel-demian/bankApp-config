@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to the cards API"
+  contactDetails:
+    name: "Liliherax - QA Lead"
+    email: "__"
+  onCallSupport:
+    - (011)-GOOD-PLEASE-HELP-TESTING-THIS
