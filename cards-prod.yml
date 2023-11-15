@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to the cards API"
+  message: "Welcome to the cards production API"
   contactDetails:
     name: "Liliherax - Product Owner"
     email: "{cipher}83aa62e693c0d75cf0c99c18c471f8c4d509bac587c466ecab03733270a5c1c63928871f5abc98d2fedd707a276e8fd3"
