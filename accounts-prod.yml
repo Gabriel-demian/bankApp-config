@@ -5,6 +5,6 @@ accounts:
   message: "Welcome to the accounts API"
   contactDetails:
     name: "Liliherax - Product Owner"
-    email: "__"
+    email: "liliherax@liliherax.com"
   onCallSupport:
     - (011)-GOOD-PLEASE-HELP-RUNNING-THIS
